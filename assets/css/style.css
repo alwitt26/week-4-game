@@ -1,0 +1,42 @@
+/* General Elements*/
+html { 
+  background: url(https://vignette.wikia.nocookie.net/dream-world/images/7/74/Crystal_Cave.jpg/revision/latest?cb=20120401122717) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+div.title{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2{
+	color: white;
+	font-family: 'Creepster', cursive;
+}
+
+h3{
+	color: white;
+}
+
+div.randomNumber{
+	color: white;
+}
+
+div.score{
+	color: white;
+}
+
+
+div.total{
+	color: white;
+}
+
+
+.buttons{
+	height: 80px;
+	margin: 2%;
+}
